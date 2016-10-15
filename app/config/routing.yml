@@ -1,0 +1,5 @@
+symfony_sample:
+    resource: "@SymfonySampleBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
