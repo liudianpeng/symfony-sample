@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="CopyrightManager" default="" />
+  <component name="GradleLocalSettings">
+    <option name="modificationStamps">
+      <map>
+        <entry key="C:/Java/java_workspace/dcloud/jpaDemo" value="1434552832257" />
+        <entry key="C:/Java/workspace/dcloud" value="1421649024543" />
+        <entry key="C:/Java/workspace/jpaDemo" value="1421583319978" />
+        <entry key="C:/vagrant_centos_workspace/training/slackend-knework" value="1433337151094" />
+        <entry key="C:/vagrant_centos_workspace/training/slackend-knewwork2" value="1433338419084" />
+        <entry key="F:/java_code_project/dcloud/jpaDemo" value="1434604912123" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" />
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
